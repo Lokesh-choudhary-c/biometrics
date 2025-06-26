@@ -30,7 +30,7 @@ To implement biometric authentication (fingerprint or face recognition) in a Flu
   - iOS Keychain
 
 ### 4. UI & UX
-- Clean modern design inspired by Gen Z themes
+- Clean modern design
 - Instructions and feedback provided for login methods
 - Snackbar messages for actions like incorrect password, success, etc.
 
